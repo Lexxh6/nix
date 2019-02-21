@@ -1,0 +1,23 @@
+{
+  "referenceFile": [{
+      "name": "file1",
+      "isExpired": true,
+      "date": "2019-02-20"
+    },
+    {
+      "name": "file2",
+      "isExpired": false,
+      "date": "2019-01-20"
+    },
+    {
+      "name": "file3",
+      "isExpired": true,
+      "date": "2019-01-20"
+    },
+    {
+      "name": "file4",
+      "isExpired": false,
+      "date": "2019-04-05"
+    }
+  ]
+}
